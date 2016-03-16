@@ -1,0 +1,9 @@
+name: KafkaCraft
+main: us.kafkacraft.KafkaCraft
+version: 1.0
+commands:
+   kafka:
+      description: Create the world map and start listening to Kafka.
+      usage: /<command> [player]
+      permission: <plugin name>.kafka
+      permission-message: You don't have <permission>
