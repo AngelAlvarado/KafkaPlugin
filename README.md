@@ -5,9 +5,9 @@ Visualizing Apache Log Data... with StreamSets & Minecraft!
 
 ![Screenshot](KafkaPlugin.png)
 
-See the plugin in action:
+Click below to see the plugin in action:
 
-[![YouTube video](http://img.youtube.com/vi/yH8xZIxiThk/0.jpg)](http://www.youtube.com/watch?v=yH8xZIxiThk)
+[![YouTube video](http://img.youtube.com/vi/yH8xZIxiThk/maxresdefault.jpg)](//www.youtube.com/watch?v=yH8xZIxiThk)
 
 Pre-requisites
 --------------
