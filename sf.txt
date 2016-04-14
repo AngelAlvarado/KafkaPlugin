@@ -1,0 +1,92 @@
+{"topLeftLat":37.839351, "topLeftLon":-122.532321, "bottomRightLat":37.696869, "bottomRightLon":-122.317037}
+                                                                                                                                                      
+                                                                                                             ...                                      
+                                                                                                             ...                                      
+                                                                                                          .;d0K0kc'                                   
+                                                                                                          cXNNNNNNx'                                  
+                                                                                                          cXNNNNNNx'                                  
+                                                                                                          cKNNNNNNXo.                                 
+                                                                                                          .:k000XNNXo.                                
+                                                                                                          .:k000XNNXo.                                
+                                                                                                            :OKKXNNN0:                                
+                                                                                                             cKNNNXOl.                                
+                                                                                                             cKNNNXOl.                                
+                                                                                                              cOkc'.                                  
+                                                                                                              .lo.  ...                               
+                                                                                                              .lo.  ...                               
+                                                                              .                               .xXkodool.                              
+                                    .,,..                            .       .,c:cdc'...                      .:xK0xx0o.                              
+                                    .,,..                            .       .,c:cdc'...                      .:xK0xx0o.                              
+                                   .cddkkd:.         ........''','. ;xdo:'';:lok00KXKOko,..                      .,;lc.                               
+                                   ,O0xodO0Oo:'',:clddddkkkkkOOKKKOdxKKK000KK00000KXXXXX0kc..                                                         
+                                   ,O0xodO0Oo:'',:clddddkkkkkOOKKKOdxKKK000KK00000KXXXXX0kc..                                                         
+                                   l0000xdodxxxkkkxxxxxxxOKNNNNNNXXXKKXKK0KXXXXXXKXXNNNNNX0dc'                                                        
+                                  ;k00KKKOodOxdoddxkO00OxxkKNXXXKKKKK0000k0NNNK000OOO0KKKXNX0d;.                                                      
+                                  ;k00KKKOodOxdoddxkO00OxxkKNXXXKKKKK0000k0NNNK000OOO0KKKXNX0d;.                                                      
+                                 ,k00KKKKOoxK0OOOOOOOOOOOOOOO000000KKKKXXOk0XXKK0000000KXXNNX0xc.                                                     
+                                .ckkkOO0KOdkKKOOOkkO0O0KKKKXXXXKK0O00000XKkx00O00OO00KXXXXXNNNKkc.                                                    
+                                .ckkkOO0KOdkKKOOOkkO0O0KKKKXXXXKK0O00000XKkx00O00OO00KXXXXXNNNKkc.                                                    
+                                :kOOO000KOkO0Oxxxxxxkxk0000KXKKKXKKXNXXXXXkoONNNNNNNNNNNXKKXXXK0Ol.                                                   
+                               ;OK0KKKKXKkoOK000K000000K0O000OO0KK0XNNNNNXOokKK0OOO00000KKKKKKKKK0d,                                                  
+                               ;OK0KKKKXKkoOK000K000000K0O000OO0KK0XNNNNNXOokKK0OOO00000KKKKKKKKK0d,                                                  
+                  .....    .,cd0XK0KKKXX0oxKKKXXXXXXXXXNNNNNXXXXXXXXXXK000kodk0OO0KKKXXXXXKK0000KXKd,                                                 
+                ,okO00Ododk0XNNXK0OO000Oolk0O00KXNXK0OOO00000KKKXXXXNXK000Okdx000KXXXXXKK00K000KKOdol:.                                               
+                ,okO00Ododk0XNNXK0OO000Oolk0O00KXNXK0OOO00000KKKXXXXNXK000Okdx000KXXXXXKK00K000KKOdol:.                                               
+             .:d0KXXKKKKKKXNNNNXXXKKKXKOxOK0OOO0000O000XXXXXXXX0OOO00OO00KK0kxOOOO0000KK0000KXX0kk0Kx:.                                               
+           .:kKKXNNNXKKKKKKXKXXKXNNNNNNKO0NX0000OOOO00KXXXXXXXXK00OO0O0000KKOxOKK0000OKKKKKKKOxOKNNXkc.                                               
+           .:kKKXNNNXKKKKKKXKXXKXNNNNNNKO0NX0000OOOO00KXXXXXXXXK00OO0O0000KKOxOKK0000OKKKKKKKOxOKNNXkc.                                               
+           ,x00KXXXXXX0OOO00O000KXXXXXXKk0XXXXNXXXXXXXNNNNNNNNNXK0OkkxkOOO00OxONNX0K0kkOOKKkdoxk000Kkc.                                               
+           ,x0KXNNNNNNNNNNXXNNNXXNNNNNNXO0NNNNNNNNNNNNNNNNXNNNNX0000OO0K0KK00kkXXKKK0kkkxdoxOOOOO0kdc.                                                
+           ,x0KXNNNNNNNNNNXXNNNXXNNNNNNXO0NNNNNNNNNNNNNNNNXNNNNX0000OO0K0KK00kkXXKKK0kkkxdoxOOOOO0kdc.                                                
+            :OXNNNNNNNNNXXXXNNXXXNNNNNNXO0NNNNNNNXXXXNNNXK00KKNXXXNNXXXXOxk00kxO00KXXkll::xKK000O00Oxc..                                              
+            'xXNNNNNNNNXK0OO000KKXXK0000kOXNXXXXXXXXXKXXK0OOO00K00KKKKXX0xook0xk0O0KXklccx0Ox0XXXXKX0ocl'                                             
+            'xXNNNNNNNNXK0OO000KKXXK0000kOXNXXXXXXXXXKXXK0OOO00K00KKKKXX0xook0xk0O0KXklccx0Ox0XXXXKX0ocl'                                             
+            .oKXXNXXXXXXXKKXXXXXXNXOxO00KXNNXXXNNXXXKKKXXXXXXXK000KKNNNNXKkoddooxxxxkOkldXNXxdKNNNXXKl..                                              
+            .lKNNNNXXNNNNNNNNNNNNNX0k0XXXNNNX000K00KKKXNNNNNNX00000KKKXKKXXXKOkkkOkkkxxloKNNKxkKK0OO0Oc.                                              
+            .lKNNNNXXNNNNNNNNNNNNNX0k0XXXNNNX000K00KKKXNNNNNNX00000KKKXKKXXXKOkkkOkkkxxloKNNKxkKK0OO0Oc.                                              
+            .lKNNNNNNNNNNX00000K00KKkOXXXXXXXXXXXK00K00XXKXNNXKKKKKKK0KKOO0K0O0KXNXXXKOolOKKK0xdkKKKKx,                                               
+            .l0XXXXXNNXXXXXXXXXXXXXX0kKNNXNNNXXNNX0000O0KOO0KKXNNNXXKXXX00KKKKKXXXXXNXXkdO00KKKOdOXX0c...                                             
+            .l0XXXXXNNXXXXXXXXXXXXXX0kKNNXNNNXXNNX0000O0KOO0KKXNNNXXKXXX00KKKKKXXXXXNXXkdO00KKKOdOXX0c...                                             
+             :OXNNNNNNNXXNNNNNNNNNNNKOKNNNNNNXXNNNNNNNXXXK000O0KKXXXNNNNXXXXNXXXNNNNNXXOkKNNNNNKdkXXXKOOl.                                            
+             ,dO00KXNNNXXNNNNNNNNNNNKOKNNNNNNXXNNNNNNNNNXKK0O0KKXNNNNNNNX0OOO0O0K0KXNXKKKKNNNN0xco0XXNNNk.                                            
+             ,dO00KXNNNXXNNNNNNNNNNNKOKNNNNNNXXNNNNNNNNNXKK0O0KKXNNNNNNNX0OOO0O0K0KXNXKKKKNNNN0xco0XXNNNk.                                            
+             'xKNNNNNNNNXNNNNNNNNNNNXO0NNNNK0000XNNNNNNNX000OO0KKNNNXNNNXKXKXKKXXXXNNNXKOOXNNXd:cckKXNNNd.                                            
+             .dKNNNNNNNNXXNNNNNNNNNNXO0NNNNNNXXXNNNNNNNNNNNNNXXNNNNNK0000O0K0KKKKXXXXXKKOdONNN0dlcOXXNXk:.                                            
+             .dKNNNNNNNNXXNNNNNNNNNNXO0NNNNNNXXXNNNNNNNNNNNNNXXNNNNNK0000O0K0KKKKXXXXXKKOdONNN0dlcOXXNXk:.                                            
+             .o0XNNNNNNNXXNNNNNNNNNNXO0NNNNNNNXKXNNNNXNNNNNNXXNNNNNNNNNNXKXXNNXK00000K00OdONNNNNOlxXXNN0d'                                            
+              cOXNNNXXXXKKXXXXNK00KKKkkKXNNNNNNXKXNNNNNXXXXXKKXNNNNNNNNNNXKKKK00KKKKKKKKkd0NXXXXxlOXXNNNk'                                            
+              cOXNNNXXXXKKXXXXNK00KKKkkKXNNNNNNXKXNNNNNXXXXXKKXNNNNNNNNNNXKKKK00KKKKKKKKkd0NXXXXxlOXXNNNk'                                            
+              'xKNNNK0000000KKXXKKK00kx0XNNNNNNNXKXNNNNK000OO00XNNNNNNNNNKK000OO000000KKdxXNXXKOodKKOoll,...                                          
+              .lKNNNNNNNXXNNNNNNNNNNN0OXNNNNNNNNNXXXXXKXXXXXXNXNNNNNNNNNNXXNXXXNNNNNNNNOdONNNNOox0KOkxxk0000o.                                        
+              .lKNNNNNNNXXNNNNNNNNNNN0OXNNNNNNNNNXXXXXKXXXXXXNXNNNNNNNNNNXXNXXXNNNNNNNNOdONNNNOox0KOkxxk0000o.                                        
+               :0NNNNNNNXXNNNNNNNNNNNKOKNNNNNN0xkxkkkxxxxkkxkkkOkxxkOOkKNXXXXXNNNNNNNN0dkXNNXOdOXXXKKXNNNNNNXx.                                       
+               ,OXNNNNNNXXNNNNNNNNNNNKOKNNNNNN0OOkkkO0K0OOOOOOO00OO0000KNXK00O000KKKK0dkXNN0xx0NNNXXXNNNNNNNNXx'                                      
+               ,OXNNNNNNXXNNNNNNNNNNNKOKNNNNNN0OOkkkO0K0OOOOOOO00OO0000KNXK00O000KKKK0dkXNN0xx0NNNXXXNNNNNNNNXx'                                      
+               .xXNNNNNNNXXNXXNNXXXNNXO0X000OO00KXXNNNNNNNNNNNNNNNNNNNNNNK0KKKKKKKXKXkd0NXOdkXNNNNXXNNNNNNNNO:..                                      
+               .oKNNNNNNNXXX0000OO0KXNO0NXKKKKXXXNNNNNNNNNNNXKKKKKKKKKXXXKKNNNNNNNNNNOooxxkKNNNNNNXXNNNNNNNNx.                                        
+               .oKNNNNNNNXXX0000OO0KXNO0NXKKKKXXXNNNNNNNNNNNXKKKKKKKKKXXXKKNNNNNNNNNNOooxxkKNNNNNNXXNNNNNNNNx.                                        
+               .lKXXXXXXXKKXXXK0O0KXXXOOKKXNNNNNNNNNNNNNNNNNXKKKK0KK00KKKXK0Okk0XX0kdolcdKNNNNNNNXXNNNNNNNNNx,.                                       
+                :k0XNNXKXXXXNXXKKXXNNN0OKXNNNNNNNNNNNNNNNNNNNNNXKOkkxxxxkkdc:cclxkxkOKXOdOXNNNNNNXXNNNNNNNNNXXKkc;cl:.                                
+                :k0XNNXKXXXXNXXKKXXNNN0OKXNNNNNNNNNNNNNNNNNNNNNXKOkkxxxxkkdc:cclxkxkOKXOdOXNNNNNNXXNNNNNNNNNXXKkc;cl:.                                
+                ;kKXXK0XNXXXXXXXNNNNNNOOKKXXNNNNNNNNNNNNNNNNX0xxxkkkkkOOOOOkxodOKXNNNNNXko0NNNNNXXNNNNNNNNNNNNNNNNNNN0dl;.                            
+                ,OXXKOkO00K00000KXNNNX0O0XXXKXNNNNNNNNNNNNN0xkOKNXXK00KKXXXXKKXNNXXNNNNNXdxXNX00O0XNNNNNNNNNNNNNNNNNNNNN0;                            
+                ,OXXKOkO00K00000KXNNNX0O0XXXKXNNNNNNNNNNNNN0xkOKNXXK00KKXXXXKKXNNXXNNNNNXdxXNX00O0XNNNNNNNNNNNNNNNNNNNNN0;                            
+                'kK000OOkOKKKKKKKXNNNXOOKXNNK0000000XNNNNN0dkKXNXKKKK0000KKKKKNNNNKKXNNNN0OKNXK0KXXNNXXNNNX0OKNNNNN0kOxc'                             
+                .dK0OOOO000KKKKKXNNNNNOOXXNNNXXKKKKKKXXXX0od0XXXK0KXNNNNNNNNNNNNNNXKXNNNXKKKKXXXNNNNNXkd0x;,dKNNNNNXkc'.                              
+                .dK0OOOO000KKKKKXNNNNNOOXXNNNXXKKKKKKXXXX0od0XXXK0KXNNNNNNNNNNNNNNXKXNNNXKKKKXXXNNNNNXkd0x;,dKNNNNNXkc'.                              
+                 cKK000OOkkOO000O000KKOOXXNNNNNNNNNNNNXXKdoOXNNK0KK0O0000K0OO0KXNNNNNNNNXXKkOXXXNNNNNNO;..  cKNNNNNNKd:.                              
+                 ,OKKKXX0kxxkOKKKXXXXXKkOXNNNNNNNNNNNNNN0dkXKKKKXNNNXXXXXXNXXXNNNNNNNNNNNNXxd0XNNNNNNNN0d;.  ,oxOKNN0c'.                              
+                 ,OKKKXX0kxxkOKKKXXXXXKkOXNNNNNNNNNNNNNN0dkXKKKKXNNNXXXXXXNXXXNNNNNNNNNNNNXxd0XNNNNNNNN0d;.  ,oxOKNN0c'.                              
+                 .dKKKKXNX0OkkOOO000000OxONNNNNNNNNNNNNKxx0XKK0KXNNNNNNNNNNNNNNNNNNNNNNNNNN0dkNNNNNNNNNNNXOc.   ..:do,.                               
+                  :O000KXNNK0OOO00OxxkO0kkKNXKKKXNNNNXOxx0XXKXXXXXXXNNNNNNNNNNNNNNNNNNNNNNXXkdONNNNNNNNNNXk;                                          
+                  :O000KXNNK0OOO00OxxkO0kkKNXKKKXNNNNXOxx0XXKXXXXXXXNNNNNNNNNNNNNNNNNNNNNNXXkdONNNNNNNNNNXk;                                          
+                  .o0000KNNNNK0KXNNNXXNNKkOXxlllxO0OkxxOOOOO0KKKNNNXKKKKKXXXXXXNNNNNNNNNNXXXNOd0NNNNNNNNXo.                                           
+                   cKNXKNNNNNNKKXNNNNNNNXOkkdlcoxxodk0KXXKXXXXXNNNNNX000000K00KXNNNNNNNXXXNNNXxx0kxxxl:c:....                                         
+                   cKNXKNNNNNNKKXNNNNNNNXOkkdlcoxxodk0KXXKXXXXXNNNNNX000000K00KXNNNNNNNXXXNNNXxx0kxxxl:c:....                                         
+                   .kNXXNNNNNNXXNNNNNNNNKdo0XKO00kOKXXNNNNNNNNNNNNNNNNNNNNNNNNXXXXXXXNXXXNNNNN0dc.                                                    
+                    lXXXNNNNNNNXNNNNNXXXOokXXXXOxO0KKXKKKXNNNNNNNNNNNNNNNNNNNNNNNNNXXXKXNNNNNNXx;.                                                    
+                    lXXXNNNNNNNXNNNNNXXXOokXXXXOxO0KKXKKKXNNNNNNNNNNNNNNNNNNNNNNNNNXXXKXNNNNNNXx;.                                                    
+                    ,OXXXNXKKXK0000000KXOd0NNNKkkOkkO0OOk0NNNNNNNNNNNNNNNNNNNNNNKKKK000KK0KKXNNk:.                                                    
+                    .lKKKXKOO0000000KKXNOd0NNNOkXNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNKKKKK00KKKKKNNN0o'                                                    
+                    .lKKKXKOO0000000KKXNOd0NNNOkXNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNKKKKK00KKKKKNNN0o'                                                    
+                     ;k0OO00KXXXXXXKXXXXOokXXKxkKXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXKKKXXXXXXX0o,                                                    

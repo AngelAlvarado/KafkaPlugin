@@ -1,13 +1,17 @@
 Visualizing Apache Log Data... with StreamSets & Minecraft! 
 ===========================================================
 
-[StreamSets Data Collector](https://streamsets.com/product/) (SDC) is an open source framework for building continuous big data pipelines. SDC can ingest data from origins such as Apache Web Server log files, outputting to destinations such as [Apache Kafka](http://kafka.apache.org/). This project is a Minecraft/Spigot plugin that consumes log data from a Kafka queue and renders it as sand blocks falling onto a map of the world.
+[StreamSets Data Collector](https://streamsets.com/product/) (SDC) is an open source framework for building continuous big data pipelines. SDC can ingest data from origins such as Apache Web Server log files, outputting to destinations such as [Apache Kafka](http://kafka.apache.org/). This project is a Minecraft/Spigot plugin that consumes log data from a Kafka queue and renders it as sand blocks falling onto a map.
 
 ![Screenshot](KafkaPlugin.png)
 
 Click below to see the plugin in action:
 
-[![YouTube video](http://img.youtube.com/vi/yH8xZIxiThk/maxresdefault.jpg)](//www.youtube.com/watch?v=yH8xZIxiThk)
+[![YouTube video](http://img.youtube.com/vi/yH8xZIxiThk/0.jpg)](//www.youtube.com/watch?v=yH8xZIxiThk)
+
+NEW: I presented this demo at Hadoop Summit Dublin in April 2016:
+
+[![YouTube video](http://img.youtube.com/vi/Gnvl30OJNao/0.jpg)](//www.youtube.com/watch?v=Gnvl30OJNao)
 
 Pre-requisites
 --------------
@@ -25,15 +29,22 @@ Pre-requisites
 Log Record Schema
 -----------------
 
-Records must be written to Kafka in JSON format; the following properties MUST be present; any other properties are ignored:
+Records must be written to Kafka in JSON format; the following properties are used. All are optional, and any other properties are ignored:
 
-	{
-	    "verb": "GET"
-	    "request": "/search/tag/list",
-	    "clientip": "65.91.212.94",
-	    "lat": 38.0,
-	    "lon": -97.0,
-	}
+    {
+        "verb": "GET"
+        "request": "/search/tag/list",
+        "clientip": "65.91.212.94",
+        "lat": 38.0,
+        "lon": -97.0,
+        "area": 1234.56
+    }
+
+You can use upper or lower case for property names.
+
+* If `lat` and `lon` are both present, and within the map bounds (see below), a block will be rendered at height 100 over that location on the map. Note - you must use sand or gravel to get the falling effect.
+* If `area` is present and 10000 or more, then the block will be sand, otherwise it will be gravel.
+* If `verb` is present, then "`{verb}` `{request}` from `{clientip}`" will be sent to the Minecraft client UI as a broadcast message - e.g. `GET /index.html FROM 134.23.34.56`
 
 Setup
 -----
@@ -87,5 +98,19 @@ Now start the Minecraft client, connect to the Spigot server (select **Multiplay
 If you want to 'play' sample data into the pipeline: in the KafkaPlugin directory use the readfile.sh script to send the sample access.log file line by line to the directory/file you specified in the File Tail origin. The script will pause for a random amount of time between 0s and 1s between each line.
 
 	./readfile.sh access.log >> /some/directory/access.log
+
+Map File Format
+---------------
+
+Two maps are included as text files - a map of the world and one of San Francisco. The format is ASCII art, with a JSON object as a one line header. The JSON object contains the coordinates of the top left and bottom right bounds of the map. Incoming lat/lon is scaled to a block location using these coordinates. Here's the first line of sf.txt as an example:
+
+    {"topLeftLat":37.839351, "topLeftLon":-122.532321, "bottomRightLat":37.696869, "bottomRightLon":-122.317037}
+
+Spaces in the ASCII art are rendered as water (lapis blocks), anything else is rendered as land (emerald blocks). You are, of course, free to tweak MapMaker.java to render characters as whatever you like!
+
+I used http://www.ascii-art-generator.org/ to convert map images to ASCII art.
+
+Have Fun!
+---------
 
 Any problems, feel free to [file an issue](https://github.com/metadaddy/KafkaPlugin/issues).

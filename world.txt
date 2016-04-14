@@ -1,4 +1,4 @@
-{"centerX":118,"centerZ":56}
+{"topLeftLat":83.631198, "topLeftLon":-169.934897, "bottomRightLat":-56.883028, "bottomRightLon":-172.220054}
                                                                 tf1fL11              ;;,: f;:: t,: ,1                                                                                                                                                     
                                                             tLfffL11tttfft          1t:,f1:,;,::;:::::1                                                                                                                                                   
                                                           Lffft f1t1f1tft11   1:f ;: 1ft;;,:::;:::;::t                                                                                                                                                    
