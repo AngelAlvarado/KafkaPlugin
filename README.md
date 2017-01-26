@@ -93,7 +93,7 @@ Start Spigot; you should see the Kafka plugin being enabled:
 	[15:25:23 INFO]: [KafkaCraft] Enable
 	[15:25:23 INFO]: [KafkaCraft] Read 80 lines of world map
 
-Now start the Minecraft client, connect to the Spigot server (select **Multiplayer**, add a server at the appropriate address - `127.0.0.1` if you're running everything on the same machine), and type **/kafka**. You will be teleported into the sky and a world map will start to render in front of you. Rendering takes a minute or two; once the map is complete, the plugin will subscribe to the Kafka log topic and drop a sand block onto the map for each log record in the origin file.
+Now start the Minecraft client, connect to the Spigot server (select **Multiplayer**, add a server at the appropriate address - `127.0.0.1` if you're running everything on the same machine), make sure you op yourself and type **/kafka** (@see plugin.yml for usage). You will be teleported into the sky and a world map will start to render in front of you. Rendering takes a minute or two; once the map is complete, the plugin will subscribe to the Kafka log topic and drop a sand block onto the map for each log record in the origin file.
 
 If you want to 'play' sample data into the pipeline: in the KafkaPlugin directory use the readfile.sh script to send the sample access.log file line by line to the directory/file you specified in the File Tail origin. The script will pause for a random amount of time between 0s and 1s between each line.
 

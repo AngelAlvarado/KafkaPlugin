@@ -18,7 +18,7 @@ import org.json.simple.parser.ParseException;
 
 public class MapMaker extends BukkitRunnable {
 	List<String> worldMap;
-	
+
 	// TBD - set from ascii art
 	int level = 0,
 		z,
@@ -28,16 +28,17 @@ public class MapMaker extends BukkitRunnable {
 	    centerZ,
 	    originX,	// Top left block coord
 	    originZ;
-	
+
 	double topLeftLat,
 		   topLeftLon,
 		   bottomRightLat,
 		   bottomRightLon;
-			
+
     private final World world;
     private final KafkaCraft plugin;
 	private final Boolean makeMap;
-    
+    private final String kafkaHost;
+
     private List<String> makeMap(String map) {
     	List<String> m = new ArrayList<String>();
     	String line = null;
@@ -51,11 +52,11 @@ public class MapMaker extends BukkitRunnable {
 			topLeftLon = ((Number)jsonObject.get("topLeftLon")).doubleValue();
 			bottomRightLat = ((Number)jsonObject.get("bottomRightLat")).doubleValue();
 			bottomRightLon = ((Number)jsonObject.get("bottomRightLon")).doubleValue();
-    		
+
     		if (bottomRightLon < topLeftLon) {
     			bottomRightLon += 360.0;
     		}
-    		
+
 			while ((line = in.readLine()) != null) {
 				m.add(line);
 			}
@@ -66,23 +67,24 @@ public class MapMaker extends BukkitRunnable {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-    	
+
     	plugin.getLogger().info("Read "+m.size()+" lines of world map");
-    	
+
     	return m;
     }
-    
-    public MapMaker(KafkaCraft plugin, Player player, String map, Boolean makeMap) {
+
+    public MapMaker(KafkaCraft plugin, Player player, String map, Boolean makeMap, String kafkaHost) {
     	this.plugin = plugin;
     	this.makeMap = makeMap;
-    	
+        this.kafkaHost = kafkaHost;
+
     	plugin.getLogger().info("Map: "+map+", makeMap: "+makeMap);
-    	
+
     	worldMap = makeMap(map);
-    	
+
     	width = worldMap.get(0).length();
     	height = worldMap.size();
-    			
+
     	Location loc = player.getLocation();
     	world = loc.getWorld();
     	centerX = 0;//loc.getBlockX();
@@ -93,15 +95,15 @@ public class MapMaker extends BukkitRunnable {
         		level = Math.max(level, b.getY());
         	}
     	}
-    	
+
     	plugin.getLogger().info("Highest block is at y = "+level);
 
     	level += 5;
-    	
+
     	originX = centerX - (width/2);
     	originZ = centerZ - (height/2);
     	z = originZ;
-    	
+
     	player.setFlying(true);
     	loc.setX(centerX);
     	loc.setZ(centerZ + (height/2));
@@ -113,7 +115,7 @@ public class MapMaker extends BukkitRunnable {
 
     @Override
     public void run() {
-    	
+
     	if (makeMap && (z < centerZ + (height/2))) {
     		plugin.getLogger().info("Drawing row at z = "+z);
     		String row = worldMap.get(z - originZ);
@@ -125,7 +127,7 @@ public class MapMaker extends BukkitRunnable {
         	}
         	z++;
     	} else {
-    		new Consumer(plugin, world, this).runTaskTimer(plugin, 10, 10);
+    		new Consumer(plugin, world, kafkaHost, this).runTaskTimer(plugin, 10, 10);
     		this.cancel();
     	}
     }
